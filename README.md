@@ -1,6 +1,9 @@
 # Project Title
 Social network API
 
+GitHub:
+https://github.com/strossouw/Social-Network-API
+
  ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ##  Description
