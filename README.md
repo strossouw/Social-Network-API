@@ -5,6 +5,9 @@ GitHub:
 https://github.com/strossouw/Social-Network-API
 
  ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+ 
+ ![image](https://user-images.githubusercontent.com/105831699/198154017-aed845fa-8da6-457f-b2ee-4863bf7cd6b4.png)
+
 
 ##  Description
 
