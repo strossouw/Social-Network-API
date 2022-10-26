@@ -54,6 +54,6 @@ A front end application is required to round it out.
 
 
 ## Questions  
-See my Github [GitHub](https://www.github.com/username)  
-Email me  <emailaddress >
+See my Github [GitHub](https://www.github.com/strossouw)  
+Email me  <srossouw@uwm.edu >
 
