@@ -27,4 +27,5 @@ router
     .delete(removeFriend)
     .post(addFriend);
 
-    module.exports = router;
+
+module.exports = router;
